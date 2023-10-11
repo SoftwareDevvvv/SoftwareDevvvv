@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Malek Bejaoui</h1>
-<h3 align="center">A Passionate Flutter Mobile Developer | UI/UX Designer</h3>
+<h3 align="center">A Passionate Flutter Mobile Developer</h3>
 
-<!-- 🔭 I’m currently working on **Cookbookin** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/SoftwareDevvvv?tab=repositories](https://github.com/SoftwareDevvvv?tab=repositories)
 
