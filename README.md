@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SoftwareDevvvv?tab=repositories](https://github.com/SoftwareDevvvv?tab=repositories)
 
-- 📫 How to reach me **mohamedmalekbejaoui@gmail.com**
+- 📫 How to reach me **malek.brj3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
